@@ -1,0 +1,1 @@
+{"uuid":"3faf5a69-064a-4d39-aecc-656d025a187a","name":"Нельзя создать второго курьера с тем же логином","children":["2dad8e91-2c4e-4e9e-b577-ac3338318411"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1771451217189,"stop":1771451217189}],"afters":[],"start":1771451217187,"stop":1771451218317}
