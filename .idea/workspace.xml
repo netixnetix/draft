@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="900df037-cfa8-49a7-8ab2-4ee0c22e485e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/apiTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apiTest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiTest/src/test/java/api/CreateCourierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiTest/src/test/java/api/CreateCourierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiTest/src/test/java/api/CreateOrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiTest/src/test/java/api/CreateOrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiTest/src/test/java/api/LoginCourierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiTest/src/test/java/api/LoginCourierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiTest/src/test/java/config/ApiConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiTest/src/test/java/config/ApiConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiTest/src/test/java/models/Courier.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiTest/src/test/java/models/Courier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiTest/src/test/java/models/Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiTest/src/test/java/models/Orders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiTest/src/test/java/models/PageInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiTest/src/test/java/models/PageInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiTest/src/test/java/models/Station.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiTest/src/test/java/models/Station.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiTest/src/test/java/steps/CourierSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiTest/src/test/java/steps/CourierSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiTest/src/test/java/steps/OrderStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiTest/src/test/java/steps/OrderStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiTest/src/test/java/testData/CourierData.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiTest/src/test/java/testData/CourierData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiTest/src/test/java/testData/OrdersData.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiTest/src/test/java/testData/OrdersData.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "netixnetix"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/netixnetix/Sprint_7.git",
+    "accountId": "8737275c-5e02-415b-a926-1f3492e30662"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="39lQdIHoV1klQVCCVYg6oCdql14" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.CreateCourierTest.createNewCourier.executor": "Run",
+    "JUnit.CreateCourierTest.fieldIsRequiredForCreateCourier (1).executor": "Run",
+    "JUnit.CreateCourierTest.fieldIsRequiredForCreateCourier.executor": "Run",
+    "JUnit.CreateCourierTest.notCreateNewCourierIfLoginUse.executor": "Run",
+    "JUnit.CreateCourierTest.validCreateNewCourier.executor": "Run",
+    "JUnit.CreateOrder.fieldIsRequiredForCreateCourier (1).executor": "Run",
+    "JUnit.CreateOrder.fieldIsRequiredForCreateCourier.executor": "Run",
+    "JUnit.CreateOrderTest.executor": "Run",
+    "JUnit.CreateOrderTest.fieldIsRequiredForCreateCourier (1).executor": "Run",
+    "JUnit.CreateOrderTest.fieldIsRequiredForCreateCourier (2).executor": "Run",
+    "JUnit.CreateOrderTest.fieldIsRequiredForCreateCourier.executor": "Run",
+    "JUnit.LoginCourierTest.courierLoginUsingValidData.executor": "Run",
+    "JUnit.LoginCourierTest.courierNotLoginUsingCapitalizedPassword.executor": "Run",
+    "JUnit.LoginCourierTest.courierNotLoginUsingIncorrectData.executor": "Run",
+    "JUnit.LoginCourierTest.courierNotLoginUsingIncorrectLogin.executor": "Run",
+    "JUnit.LoginCourierTest.courierNotLoginUsingIncorrectPassword.executor": "Run",
+    "JUnit.LoginCourierTest.fieldIsRequiredForLoginCourier.executor": "Run",
+    "JUnit.LoginCourierTest.fieldPasswordIsRequiredForLoginCourier.executor": "Run",
+    "JUnit.api in apiTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.CreateOrderTest">
+    <configuration name="CreateOrderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="apiTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api" />
+      <option name="MAIN_CLASS_NAME" value="api.CreateOrderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateOrderTest.fieldIsRequiredForCreateCourier (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="apiTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api" />
+      <option name="MAIN_CLASS_NAME" value="api.CreateOrderTest" />
+      <option name="METHOD_NAME" value="fieldIsRequiredForCreateCourier(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Integer,java.lang.String,java.util.List,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateOrderTest.fieldIsRequiredForCreateCourier (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="apiTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api" />
+      <option name="MAIN_CLASS_NAME" value="api.CreateOrderTest" />
+      <option name="METHOD_NAME" value="fieldIsRequiredForCreateCourier(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Integer,java.lang.String,java.lang.String,java.util.List)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateOrderTest.fieldIsRequiredForCreateCourier" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="apiTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api" />
+      <option name="MAIN_CLASS_NAME" value="api.CreateOrderTest" />
+      <option name="METHOD_NAME" value="fieldIsRequiredForCreateCourier(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Integer,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginCourierTest.courierLoginUsingValidData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="apiTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api" />
+      <option name="MAIN_CLASS_NAME" value="api.LoginCourierTest" />
+      <option name="METHOD_NAME" value="courierLoginUsingValidData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CreateOrderTest" />
+        <item itemvalue="JUnit.LoginCourierTest.courierLoginUsingValidData" />
+        <item itemvalue="JUnit.CreateOrderTest.fieldIsRequiredForCreateCourier (2)" />
+        <item itemvalue="JUnit.CreateOrderTest.fieldIsRequiredForCreateCourier (1)" />
+        <item itemvalue="JUnit.CreateOrderTest.fieldIsRequiredForCreateCourier" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="900df037-cfa8-49a7-8ab2-4ee0c22e485e" name="Changes" comment="" />
+      <created>1771268262835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771268262835</updated>
+    </task>
+    <servers />
+  </component>
+</project>
